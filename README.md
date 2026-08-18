@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010f,100:2E1065&height=200&section=header&text=Luan%20Lucino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer&descAlignY=55&descSize=20&descColor=A78BFA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010f,100:2E1065&height=200&section=header&text=Luan%20Lucino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer&descAlignY=55&descSize=20&descColor=A78BFA" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript;C%23+%2B+.NET;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
 
@@ -70,4 +70,4 @@ const luan: Developer = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:05010f&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,100:05010f&height=100&section=footer" width="100%" />
