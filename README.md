@@ -55,9 +55,6 @@ const luan: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuanLucino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=c9c9c9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanLucino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=c9c9c9" height="165" />
-
 <img src="https://streak-stats.demolab.com?user=LuanLucino&theme=tokyonight&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%" />
 
 </div>
